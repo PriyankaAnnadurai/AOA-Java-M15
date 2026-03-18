@@ -1,7 +1,5 @@
 # EX 5E Minimum Spanning Tree – Borůvka’s Algorithm
 
-## DATE: 21-11-2025
-
 ## AIM:
 
 To write a Java program to find the **Minimum Spanning Tree (MST)** of a weighted undirected graph using **Borůvka’s Algorithm**.
@@ -30,8 +28,8 @@ To write a Java program to find the **Minimum Spanning Tree (MST)** of a weighte
 ```java
 /*
 Program to implement Minimum Spanning Tree
-Developed by: Gayathri T
-Register Number: 212223100007
+Developed by: Priyanka A
+Register Number: 212222230113
 */
 
 import java.util.*;
