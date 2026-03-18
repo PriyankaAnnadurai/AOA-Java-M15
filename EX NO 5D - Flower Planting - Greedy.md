@@ -1,7 +1,5 @@
 # EX 5D Flower Planting
 
-## DATE: 15-11-2025
-
 ## AIM:
 
 To write a Java program to assign one of **four flower types** to each garden such that **no two adjacent gardens have the same flower type**, using a greedy algorithm.
@@ -28,8 +26,8 @@ A valid assignment is always guaranteed because no garden has more than 3 neighb
 ```java
 /*
 Program to implement Flower Planting
-Developed by: Gayathri T
-Register Number: 212223100007
+Developed by: Priyanka A
+Register Number: 212222230113
 */
 
 import java.util.*;
