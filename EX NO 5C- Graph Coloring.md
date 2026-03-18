@@ -1,7 +1,5 @@
 # EX 5C Graph Coloring
 
-## DATE: 09-11-2025
-
 ## AIM:
 
 To write a Java program to determine whether N radio towers can be assigned at most M frequency channels such that no two adjacent towers share the same channel, using the **Graph Coloring (Backtracking)** approach.
@@ -28,8 +26,8 @@ To write a Java program to determine whether N radio towers can be assigned at m
 ```java
 /*
 Program to implement Graph Coloring
-Developed by: Gayathri T
-Register Number: 212223100007
+Developed by: Priyanka A
+Register Number: 212222230113
 */
 
 import java.util.*;
