@@ -1,7 +1,5 @@
 # EX 5A 0/1 Knapsack Problem – Branch & Bound
 
-## DATE: 3-11-2025
-
 ## AIM:
 
 To write a Java program to solve the **0/1 Knapsack problem using the Branch & Bound** approach and compute the maximum profit obtainable within a given budget.
@@ -34,8 +32,8 @@ To write a Java program to solve the **0/1 Knapsack problem using the Branch & B
 ```java
 /*
 Program to implement Knapsack Problem
-Developed by: Gayathri T
-Register Number: 212223100007
+Developed by: Priyanka A
+Register Number: 212222230113
 */
 
 import java.util.*;
