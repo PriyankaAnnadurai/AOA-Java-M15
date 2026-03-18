@@ -1,4 +1,4 @@
-# EX 5E Minimum Spanning Tree – Borůvka’s Algorithm
+# EX 5E Minimum Spanning Tree – Boruvka’s Algorithm
 
 ## AIM:
 
